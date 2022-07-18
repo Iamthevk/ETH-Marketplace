@@ -29,7 +29,7 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: #c409f3;
   text-decoration: none;
 }
 
@@ -113,4 +113,8 @@
     width: 100%;
     flex-direction: column;
   }
+}
+
+.under a {
+  text-decoration: underline;
 }
